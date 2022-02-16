@@ -1,0 +1,31 @@
+// Podem ser divididos em:
+
+Unários: atuam em apenas um elemento.
+    i.e: i++
+
+Binários: atuam entre dois elementos.
+    i.e: 1 + 2; 3 / 4
+
+Ternários: atuam em três elementos.
+    i.e: x?a:b;
+
+// Ou pelos seus tipos:
+
+Aritméticos: operadores matemáticos
+    i.e: +, -, *, / (retorna o-
+        coeficiente da divião), % 
+        (retorna o resto da divisão).
+
+Relacionais: relacionam/comparam dois valores
+    i.e: 1 < 2; 3 > 0.1; a > b
+        como "=" é usasdo para atribuição,
+        usa-se "==" para comparar igualdade e
+        "!=" para se verificar diferença.
+        EM GERAL O RESULTADO É BOOLEANO!
+
+Atribuição: como o nome diz, atribuem valores a variaveis.
+    i.e: a = 1; a += 1 -> soma 1 ao valor atual de a.
+
+Lógicos: binários: and (&), or (|), xor (^).
+        não binários: and (&&), or (||), (!= ou !==), not (!).
+        

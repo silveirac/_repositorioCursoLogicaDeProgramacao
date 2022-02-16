@@ -1,0 +1,19 @@
+// Podem ser divididas em duas categorias
+
+// Estruturas condicionantes
+
+Entre elas estão: if/else e switch
+
+// Estruturas de repetição
+
+Entre elas estão: for, while e do/while
+
+"for" é usado para repetições determinadas.
+i.e: ler 10 páginas, repetira 10 VEZES o ato de der uma página.
+
+"while" é usado para repetições indeterminadas. Ou seja, quando o fator que determina o fim do laço (loop)
+de repetição não está realacionado às instruções realizadas dentro do laço.
+i.e: ler páginas até 22h. Não se sabe (indeterminado) o número de páginas que serão lidas até 22h.
+
+obs.: for e while também, podem ser usados para repetições indterminadas e determinadas respectivamentes,
+mas não são otimizados para tais tarefas.
